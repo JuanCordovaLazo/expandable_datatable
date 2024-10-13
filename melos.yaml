@@ -1,4 +1,4 @@
-name: my_project
+name: expandable_datatable_workspace
 
 packages:
   - apps/**

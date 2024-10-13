@@ -1,4 +1,4 @@
-library expandable_datatable;
+library;
 
 export 'src/expandable_datatable.dart';
 

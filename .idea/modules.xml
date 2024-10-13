@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/apps/example/melos_example.iml" filepath="$PROJECT_DIR$/apps/example/melos_example.iml" />
       <module fileurl="file://$PROJECT_DIR$/packages/expandable_datatable/melos_expandable_datatable.iml" filepath="$PROJECT_DIR$/packages/expandable_datatable/melos_expandable_datatable.iml" />
-      <module fileurl="file://$PROJECT_DIR$/melos_my_project.iml" filepath="$PROJECT_DIR$/melos_my_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_expandable_datatable_workspace.iml" filepath="$PROJECT_DIR$/melos_expandable_datatable_workspace.iml" />
     </modules>
   </component>
 </project>
