@@ -254,13 +254,13 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "my_project",
+      "name": "expandable_datatable",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2024-10-12T15:27:12.002679Z",
+  "generated": "2024-10-13T03:40:23.784574Z",
   "generator": "pub",
   "generatorVersion": "3.5.3",
   "flutterRoot": "file:///home/nevermore/development/flutter",

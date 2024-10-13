@@ -157,7 +157,7 @@ class ExpandableDataTable extends StatefulWidget {
   )? renderExpansionContent;
 
   /// Allows to always have a expansion option on the row when creating custom expansion content using [renderExpansionContent]
-  bool alwaysEnableCustomExpansionContent;
+  final bool alwaysEnableCustomExpansionContent;
 
   /// Display label provider for cell values that allows changing how a value
   /// is displayed but not how it behaves for e.g. sorting
